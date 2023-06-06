@@ -1,0 +1,56 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+footer {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.section {
+  padding: 20px;
+}
+
+#section1 {
+  background-color: yellow;
+}
+
+#section2 {
+  background-color: lightblue;
+}
+
+#section3 {
+  background-color: green;
+}
+
+#section4 {
+  background-color: pink;
+}
+
+#section5 {
+  background-color: orange;
+}
